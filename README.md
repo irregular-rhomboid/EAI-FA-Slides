@@ -8,7 +8,7 @@ This repo contains the slides and links to the recordings of the EAI FA Reading 
 * [Functional Derivatives](https://youtu.be/z5lDTH1Sp5k)
 * [Euler-Lagrange Equations](https://youtu.be/qjrh5YNDYIM)
 * [Inner Product Spaces](https://youtu.be/xG_tQfuYepQ)
-* [Orthogonality (soon)]()
+* [Orthogonality](https://youtu.be/PF_jPwa_BlQ)
 
 ## Best moments
 
